@@ -7,6 +7,12 @@ body{
 .started{
 	
 }
+.babu{
+	background-image: url("img/flower1.jpg");
+}
+.bubble{
+	-webkit-transform: translate(500px, 400px)
+}
 .main{
 	
 	background:#000;
